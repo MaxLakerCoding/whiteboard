@@ -10,7 +10,8 @@ body, html{
     overflow: hidden;
     -ms-overflow-style: none;
     scrollbar-width: none;
-    cursor: crosshair;
+    /* cursor: crosshair; */
+    cursor:url(./img/eraser-svgrepo-com.gif), auto;
 }
 body{
     position: relative;
